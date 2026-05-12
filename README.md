@@ -1,4 +1,4 @@
-、# Chapter8_figure_making
+# Chapter8_figure_making
 
 High-quality scientific visualization workflow and plotting toolkit for Python/matplotlib.
 
