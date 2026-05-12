@@ -1,30 +1,36 @@
-# Chapter8_figure_making
+# Chapter8 format reference template
 
-High-quality scientific visualization workflow and plotting toolkit for Python/matplotlib.
+This package contains a LaTeX reference template extracted from the uploaded `Chapter8.tex` formatting.
 
-## Features
+Included:
 
-- Consistent publication styling
-- Scientific color palettes
-- Grouped bar charts
-- Trend plots
-- Heatmaps
-- Multi-panel layouts
-- Vector-safe export
+- `Chapter8_format_reference_template.tex` — reusable LaTeX template with the original formatting structure preserved and original body content removed.
+- `figures/.gitkeep` — placeholder folder for figure files.
 
-## Files
+Format features preserved:
 
-- `SKILL.md` — workflow overview
-- `api.md` — plotting APIs and conventions
-- `design-theory.md` — visualization design principles
-- `common-patterns.md` — reusable figure layouts
-- `tutorials.md` — end-to-end examples
-- `demos.md` — reference demonstrations
+- `ctexart` two-column A4 layout
+- 10pt base font size
+- XeLaTeX compilation target
+- Narrow academic-style margins and 7 mm column separation
+- `newtxtext` / `newtxmath` font stack
+- `microtype`, `booktabs`, `caption`, `subcaption`, `titlesec`, `enumitem`, `hyperref`, `footmisc`
+- Section and subsection title formatting
+- Caption formatting
+- Itemize/enumerate spacing
+- Reusable term, abbreviation, translator-note, single-column figure, double-column figure, and figure-placeholder macros
 
-## Use Cases
+Suggested compile command:
 
-- Academic papers
-- Technical slides
-- Research reports
-- Benchmark visualization
-- Publication figures
+```bash
+xelatex Chapter8_format_reference_template.tex
+```
+
+Before compiling, replace the placeholder metadata commands near the top of the file:
+
+```tex
+\newcommand{\TemplateTitle}{<Document Title>}
+\newcommand{\TemplateAuthor}{<Author Name>}
+\newcommand{\TemplateSubject}{<Document Subject>}
+\newcommand{\TemplateKeywords}{<keyword one, keyword two>}
+```
