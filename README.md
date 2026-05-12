@@ -1,89 +1,12 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="chapter8_banner.png">
+  <img src="chapter8_banner.png" width="100%" alt="chapter8_banner.png">
 </p>
 
-
-
-```text
-
-  ____ _                 _             ___  
- / ___| |__   __ _ _ __ | |_ ___ _ __ ( _ ) 
-| |   | '_ \ / _` | '_ \| __/ _ \ '__|/ _ \ 
-| |___| | | | (_| | |_) | ||  __/ |  | (_) |
- \____|_| |_|\__,_| .__/ \__\___|_|   \___/ 
-                  |_|      
-
-                  
-<p align="center">
-  <code>reconstructing textbook figures into presentation-ready academic visuals_</code>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-active-74A892?style=flat-square">
-  <img src="https://img.shields.io/badge/topic-deep%20learning-8FB7C9?style=flat-square">
-  <img src="https://img.shields.io/badge/focus-academic%20visualization-D8B25C?style=flat-square">
-  <img src="https://img.shields.io/badge/LaTeX-supported-AFC4D2?style=flat-square">
-</p>
-
-                 
-
-> Chapter 8 Figure Making
 ---
 
 A reconstruction and redesign project for Chapter 8 deep learning figures, focused on modern academic visualization, low-saturation scientific aesthetics, and presentation-ready educational materials.
 
 This repository contains redesigned figures, slide assets, and LaTeX-related resources for explaining the historical evolution and architectural development of deep learning systems, especially convolutional neural networks (CNNs).
-
----
-
-## Project Goals
-
-This project aims to:
-
-- Rebuild low-quality or outdated textbook figures
-- Redesign slides with publication-style visual language
-- Improve information density and readability
-- Preserve the original educational logic while enhancing aesthetics
-- Support teaching, presentations, and academic communication
-
-The visual style is inspired by modern conference and journal figures, with emphasis on:
-
-- low-saturation color palettes
-- clean hierarchy
-- semantic visual flow
-- presentation readability
-- academic aesthetics
-
----
-
-## Topics Covered
-
-The repository currently focuses on Chapter 8 related topics, including:
-
-- Historical development of deep learning
-- Multi-layer neural networks
-- Backpropagation
-- LeNet architecture
-- CNN evolution
-- Representation learning
-- GPU and convolution acceleration
-- Key researchers and milestones
-- Modern deep learning visualization
-
----
-
-## Repository Structure
-
-```text
-Chapter8_figure_making/
-├── figures/          # redesigned figures and diagrams
-├── ppt_assets/       # slide-related visual materials
-├── tex/              # LaTeX resources
-├── paper2/           # subproject / experimental layouts
-├── README.md
-```
-
-(The actual structure may evolve during development.)
 
 ---
 
