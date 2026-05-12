@@ -1,4 +1,10 @@
-# Chapter 8 Figure Making
+<h1 align="center">
+Chapter 8 Figure Making
+</h1>
+
+<p align="center">
+Modern Academic Visualization for Deep Learning Education
+</p>
 
 A reconstruction and redesign project for Chapter 8 deep learning figures, focused on modern academic visualization, low-saturation scientific aesthetics, and presentation-ready educational materials.
 
@@ -110,11 +116,14 @@ Some historical images or references may originate from public academic material
 - Add animation-ready slide structures
 - Export publication-ready PDF assets
 - Improve repository modularization
+---
+![Status](https://img.shields.io/badge/status-active-success)
+![LaTeX](https://img.shields.io/badge/LaTeX-supported-blue)
+![DL](https://img.shields.io/badge/topic-deep_learning-red)
+
 
 ---
 
-## License
+![GitHub stars](https://img.shields.io/github/stars/xxx/xxx)
 
-This repository is intended primarily for educational and non-commercial use.
-
-Please cite or reference appropriately when reusing materials.
+---
