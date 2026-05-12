@@ -1,10 +1,34 @@
-<h1 align="center">
-Chapter 8 Figure Making
-</h1>
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Chapter 8 Figure Making Banner">
+</p>
+
+
+
+```text
+
+  ____ _                 _             ___  
+ / ___| |__   __ _ _ __ | |_ ___ _ __ ( _ ) 
+| |   | '_ \ / _` | '_ \| __/ _ \ '__|/ _ \ 
+| |___| | | | (_| | |_) | ||  __/ |  | (_) |
+ \____|_| |_|\__,_| .__/ \__\___|_|   \___/ 
+                  |_|      
+
+                  
+<p align="center">
+  <code>reconstructing textbook figures into presentation-ready academic visuals_</code>
+</p>
 
 <p align="center">
-Modern Academic Visualization for Deep Learning Education
+  <img src="https://img.shields.io/badge/status-active-74A892?style=flat-square">
+  <img src="https://img.shields.io/badge/topic-deep%20learning-8FB7C9?style=flat-square">
+  <img src="https://img.shields.io/badge/focus-academic%20visualization-D8B25C?style=flat-square">
+  <img src="https://img.shields.io/badge/LaTeX-supported-AFC4D2?style=flat-square">
 </p>
+
+                 
+
+> Chapter 8 Figure Making
+---
 
 A reconstruction and redesign project for Chapter 8 deep learning figures, focused on modern academic visualization, low-saturation scientific aesthetics, and presentation-ready educational materials.
 
