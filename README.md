@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Chapter 8 Figure Making Banner">
+  <img src="assets/banner.png" width="100%" alt="chapter8_banner.png">
 </p>
 
 
